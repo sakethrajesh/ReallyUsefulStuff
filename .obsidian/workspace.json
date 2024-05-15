@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "62f0e3f479a09885",
+        "id": "244d1e95fd8e3b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "68b590cf502d3877",
+            "id": "a1e27ca4060f56db",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Java/Springboot/docker.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -149,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68b590cf502d3877",
+  "active": "21b7231a41856c80",
   "lastOpenFiles": [
     "Java/Springboot/docker.md",
     "docker.pdf"
