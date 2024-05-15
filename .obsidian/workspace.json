@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "244d1e95fd8e3b3c",
+        "id": "25b0ee62aaeb69a5",
         "type": "tabs",
         "children": [
           {
-            "id": "a1e27ca4060f56db",
+            "id": "a18c09589f85761d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 487.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,9 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21b7231a41856c80",
+  "active": "a18c09589f85761d",
   "lastOpenFiles": [
-    "Java/Springboot/docker.md",
-    "docker.pdf"
+    "docker.pdf",
+    "Java/Springboot/docker.md"
   ]
 }
