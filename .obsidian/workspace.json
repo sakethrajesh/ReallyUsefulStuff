@@ -128,13 +128,21 @@
                 "file": "Java/Springboot/docker.md"
               }
             }
+          },
+          {
+            "id": "21b7231a41856c80",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 487.5
   },
   "left-ribbon": {
     "hiddenItems": {
