@@ -11,11 +11,10 @@
             "id": "68b590cf502d3877",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Java/Springboot/docker.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Springboot/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Springboot/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Springboot/docker.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,6 +151,7 @@
   },
   "active": "68b590cf502d3877",
   "lastOpenFiles": [
+    "Java/Springboot/docker.md",
     "docker.pdf"
   ]
 }

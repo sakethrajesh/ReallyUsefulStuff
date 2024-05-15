@@ -1,4 +1,4 @@
-# Dockerfile for Springboott
+# Dockerfile for Springboot
 
 ```dockerfile
 FROM openjdk
