@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2a941407e09868e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dr. Edwards Thesis Meeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "49b732018d3ea84c",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Springboot/docker.md",
+                "file": "Dr. Edwards Thesis Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Springboot/docker.md",
+                "file": "Dr. Edwards Thesis Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Springboot/docker.md"
+                "file": "Dr. Edwards Thesis Meeting.md"
               }
             }
           },
@@ -155,9 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a18c09589f85761d",
+  "active": "9e75730a1d545b61",
   "lastOpenFiles": [
-    "docker.pdf",
-    "Java/Springboot/docker.md"
+    "Java/Springboot/docker.md",
+    "Dr. Edwards Thesis Meeting.md",
+    "docker.pdf"
   ]
 }
