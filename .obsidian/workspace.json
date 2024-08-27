@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "49b732018d3ea84c",
@@ -169,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e75730a1d545b61",
+  "active": "f2a941407e09868e",
   "lastOpenFiles": [
     "Java/Springboot/docker.md",
-    "Dr. Edwards Thesis Meeting.md",
-    "docker.pdf"
+    "docker.pdf",
+    "Dr. Edwards Thesis Meeting.md"
   ]
 }
