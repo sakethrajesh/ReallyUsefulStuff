@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b7b486ab502fe9e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d82298c988d67bbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/Solutions/22. Generate Parentheses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "d1871077f301ccc1",
         "type": "tabs",
         "children": [
