@@ -1,4 +1,4 @@
-#. Array
+# Array
 
 
 # Stack
@@ -7,4 +7,5 @@
 
 # Backtracking
 [[39. Combination Sum]]
+
 
